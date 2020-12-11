@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=khageshwor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=khageshwor&show_icons=true&theme=radical" alt="khageshwor github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageshwor&layout=compact" />
+</div>
+
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/khageshwor-joshi-orion-6917501a9/)
 <!--
 **khageshwor/khageshwor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
