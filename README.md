@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/khageshwor) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=khageshwor.visitor-badge)](https://github.com/khageshwor) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/khageshwor)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=khageshwor&theme=onedark)
 <div>
