@@ -1,14 +1,14 @@
 ### Hi there 👋
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/khageshwor) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=khageshwor.visitor-badge)](https://github.com/khageshwor) [![Orion StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14626544)](https://stackoverflow.com/users/14626544/khageshwor) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/khageshwor) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/OrionJoshi) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=OrionJoshi.visitor-badge)](https://github.com/OrionJoshi) [![Orion StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14626544)](https://stackoverflow.com/users/14626544/khageshwor) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/OrionJoshi) 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=khageshwor&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=OrionJoshi&theme=onedark)
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=khageshwor&show_icons=true&theme=radical" alt="khageshwor github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khageshwor&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OrionJoshi&show_icons=true&theme=radical" alt="OrionJoshi github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrionJoshi&layout=compact" />
 </div>
 
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/khageshwor-joshi-orion-6917501a9/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/orionjoshi/)
 <!--
 **khageshwor/khageshwor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
